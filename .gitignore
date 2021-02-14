@@ -1,3 +1,7 @@
 venv
 .idea
 main.py
+__pycache__
+tests
+pytest.ini
+homework.py
